@@ -3,14 +3,14 @@ import Button from '../Input/Button';
 
 function Header(props) {
   return (
-    <header className=''>
+    <header className='border-b-2'>
       <div className="container mx-auto text-center">
 
       <h1 className='text-3xl font-bold'>the artificial age</h1>
 
-      <img src={ bgImage } alt="half of a woman's face with silver color" />
+      <img className='mx-auto' src={ bgImage } alt="half of a woman's face with silver color" />
 
-      <h2 className='text-l font-bold'>a dark future on our way</h2>
+      <h2 className='text-lg font-bold'>a dark future on our way</h2>
 
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis non consequuntur quam nesciunt 
