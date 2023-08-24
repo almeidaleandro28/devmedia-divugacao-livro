@@ -5,7 +5,7 @@ function About(props) {
     <section className='border-b-2 py-7'>
       <div className="container mx-auto text-center">
         
-        <h3 className='m-4 font-bold text-xl '>about the author</h3>
+        <h3 className='m-4 capitalize font-bold text-xl '>about the author</h3>
 
         <img className='mb-4 mx-auto' src={photo} alt="perfil photo" />
 
