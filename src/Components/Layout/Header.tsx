@@ -6,11 +6,11 @@ function Header(props) {
     <header className='border-b-2 py-7'>
       <div className="container mx-auto text-center">
 
-      <h1 className='text-3xl font-bold'>the artificial age</h1>
+      <h1 className='mb-3 text-3xl font-bold'>the artificial age</h1>
 
-      <img className='mx-auto' src={ bgImage } alt="half of a woman's face with silver color" />
+      <img className='mb-4 mx-auto' src={ bgImage } alt="half of a woman's face with silver color" />
 
-      <h2 className='text-lg font-bold'>a dark future on our way</h2>
+      <h2 className='mb-4 text-2xl font-bold'>a dark future on our way</h2>
 
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis non consequuntur quam nesciunt 
