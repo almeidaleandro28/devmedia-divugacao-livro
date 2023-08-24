@@ -2,7 +2,7 @@ import photo from '../../assets/autor.jpg';
 
 function About(props) {
   return (
-    <section className='border-b-2'>
+    <section className='border-b-2 py-7'>
       <div className="container mx-auto text-center">
         
         <h3>about the author</h3>

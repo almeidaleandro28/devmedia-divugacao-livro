@@ -3,7 +3,7 @@ import Button from '../Input/Button';
 
 function Header(props) {
   return (
-    <header className='border-b-2'>
+    <header className='border-b-2 py-7'>
       <div className="container mx-auto text-center">
 
       <h1 className='text-3xl font-bold'>the artificial age</h1>

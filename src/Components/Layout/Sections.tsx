@@ -1,7 +1,7 @@
 
 function Section(props) {
   return (
-    <section className="border-b-2">
+    <section className="border-b-2 py-7">
       <div className="container mx-auto text-center">
       <h3 className="font-bold text-lg">an intense story</h3>
       <p className="">
