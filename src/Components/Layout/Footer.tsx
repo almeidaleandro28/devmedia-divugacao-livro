@@ -1,6 +1,6 @@
 import Button from "../Input/Button";
 
-function Footer(props) {
+function Footer() {
   return (
     <footer className="py-7">
       <div className="container mx-auto text-center">

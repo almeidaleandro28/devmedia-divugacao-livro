@@ -1,5 +1,5 @@
 
-function Section(props) {
+function Section() {
   return (
     <section className="border-b-2 py-7">
       <div className="container mx-auto text-center">

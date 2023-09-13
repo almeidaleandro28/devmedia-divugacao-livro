@@ -1,7 +1,7 @@
 import bgImage  from '../../assets/capa-livro.jpg';
 import Button from '../Input/Button';
 
-function Header(props) {
+function Header() {
   return (
     <header className='border-b-2 py-7'>
       <div className="container mx-auto text-center">

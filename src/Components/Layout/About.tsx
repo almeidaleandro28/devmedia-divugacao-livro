@@ -1,6 +1,6 @@
 import photo from '../../assets/autor.jpg';
 
-function About(props) {
+function About() {
   return (
     <section className='border-b-2 py-7'>
       <div className="container mx-auto text-center">
